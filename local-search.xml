@@ -24,11 +24,11 @@
       
       <tag>#ElementUI</tag>
       
+      <tag>#校验时间</tag>
+      
       <tag>#el-input</tag>
       
       <tag>表单校验</tag>
-      
-      <tag>#校验时间</tag>
       
     </tags>
     
@@ -57,11 +57,11 @@
       
       <tag>#ElementUI</tag>
       
-      <tag>#校验</tag>
-      
       <tag>#el-input</tag>
       
       <tag>表单校验</tag>
+      
+      <tag>#校验</tag>
       
     </tags>
     
@@ -239,9 +239,9 @@
     
     <tags>
       
-      <tag>#Vue.js</tag>
-      
       <tag>#前端</tag>
+      
+      <tag>#Vue.js</tag>
       
       <tag>#ElementUI</tag>
       
@@ -270,9 +270,9 @@
     
     <tags>
       
-      <tag>#前端</tag>
-      
       <tag>#Git</tag>
+      
+      <tag>#前端</tag>
       
     </tags>
     
@@ -351,9 +351,9 @@
     
     <tags>
       
-      <tag>#Vue.js</tag>
-      
       <tag>#前端</tag>
+      
+      <tag>#Vue.js</tag>
       
     </tags>
     
@@ -490,9 +490,9 @@
     
     <tags>
       
-      <tag>#Vue.js</tag>
-      
       <tag>#前端</tag>
+      
+      <tag>#Vue.js</tag>
       
       <tag>#ElementUI</tag>
       
